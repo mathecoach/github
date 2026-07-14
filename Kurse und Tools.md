@@ -4,7 +4,7 @@
 https://docs.github.com/de/get-started/start-your-journey
 
 ## Kostenlose Lernplattform (in englisch)
-https://docs.github.com/de/get-started/start-your-journey/git-and-github-learning-resources
+https://learn.github.com/skills
 
 # Video-Komplettkurse auf YouTube
 
